@@ -1,3 +1,17 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# Slack Reply Bot 
+
+to run 
+
+```
+touch .env.local
+// add your api variables 
+
+OPENAI_API_KEY=""
+```
+
+To Run 
+
+```
+npm i
+npm run dev
+```
